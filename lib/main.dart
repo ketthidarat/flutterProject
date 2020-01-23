@@ -21,7 +21,7 @@ class HomePage extends StatefulWidget {
 }
 
 class HomePageState extends State<HomePage> {
-  var url = "https://raw.githubusercontent.com//ketthidarat/myproject/master/pokedex.json";
+  var url = "https://raw.githubusercontent.com//ketthidarat/myproject/master/poke.json";
 
 
   @override
