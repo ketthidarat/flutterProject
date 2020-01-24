@@ -38,7 +38,7 @@ class PokeDetail extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: pokemon.type
                         .map((t) => FilterChip(
-                            backgroundColor: Colors.amber,
+                            backgroundColor: Colors.pink,
                             label: Text(t),
                             onSelected: (b) {}))
                         .toList(),
@@ -96,7 +96,7 @@ class PokeDetail extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.purple[300],
+      backgroundColor: Colors.blue[100],
       appBar: AppBar(
         elevation: 0.0,
         backgroundColor: Colors.purple[300],
