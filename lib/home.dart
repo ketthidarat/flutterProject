@@ -16,7 +16,7 @@ class HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.pink[400],
         appBar: AppBar(
-        title: Text("Cartoon"),
+        title: Text("Home"),
         backgroundColor: Colors.orange,
       ),body: Center(
         child: Text( 'Home'

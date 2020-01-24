@@ -28,10 +28,10 @@ class PokeDetail extends StatelessWidget {
                     style:
                         TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
                   ),
-                  Text("ช่วงวัน: ${pokemon.height}"),
-                  Text("....${pokemon.weight}...."),
+                  Text("${pokemon.height}"),
+                  Text("${pokemon.weight}"),
                   Text(
-                    "สีที่ถูกโฉลก",
+                    "ตำแหน่ง",
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                   Row(
@@ -43,7 +43,7 @@ class PokeDetail extends StatelessWidget {
                             onSelected: (b) {}))
                         .toList(),
                   ),
-                  Text("สิ่งที่เชื่อมโยงกับคนราศีนี้",
+                  Text("สกิล",
                       style: TextStyle(fontWeight: FontWeight.bold)),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -57,7 +57,7 @@ class PokeDetail extends StatelessWidget {
                             onSelected: (b) {}))
                         .toList(),
                   ),
-                  Text("ดาวประจำราศี",
+                  Text("จุดเด่น",
                       style: TextStyle(fontWeight: FontWeight.bold)),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,

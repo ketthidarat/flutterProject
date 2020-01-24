@@ -39,7 +39,7 @@ class YearPageState extends State<YearPage> {
     return Scaffold(
       backgroundColor: Colors.blue[100],
       appBar: AppBar(
-        title: Text("Dog"),
+        title: Text("Support"),
         backgroundColor: Colors.purple[100],
       ),
       body: pokeHub == null

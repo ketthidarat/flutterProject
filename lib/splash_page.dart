@@ -15,7 +15,7 @@ class _SplashPageState extends State<SplashPage> {
         seconds: 1,
         navigateAfterSeconds: BarNavy(),
         title: Text(
-          'Tikker Horoscope',
+          'Thidarat Ruamsamrong',
           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 30.0 ,
             color: Colors.pink[300] ,fontStyle:FontStyle.italic),
         ),

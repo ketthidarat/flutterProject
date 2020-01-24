@@ -1,6 +1,6 @@
 import 'package:bottom_navy_bar/bottom_navy_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:myproject/home.dart';
+import 'package:flutterProject/home.dart';
 
 import 'Zodiac.dart';
 import 'about.dart';
