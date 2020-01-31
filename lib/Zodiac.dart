@@ -37,10 +37,10 @@ class ZodiacPageState extends State<ZodiacPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.orange[400],
+      backgroundColor: Colors.blue[50],
       appBar: AppBar(
         title: Text("Mage"),
-        backgroundColor: Colors.orange,
+        backgroundColor: Colors.pink[100],
       ),
       body: pokeHub == null
           ? Center(
@@ -87,7 +87,7 @@ class ZodiacPageState extends State<ZodiacPage> {
                                   )
                                 ],
                               ),
-                              color: Colors.orange[300],
+                              color: Colors.green[200],
                             ),
                           ),
                         ),

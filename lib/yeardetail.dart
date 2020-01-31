@@ -28,13 +28,13 @@ class YearDetail extends StatelessWidget {
                     style:
                         TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
                   ),
-                  Text("👉 ${pokemon.height}"),
+                //  Text("👉 ${pokemon.height}"),
                   Text("....${pokemon.weight}...."),
                   Text(
                     "ปีสมพงศ์",
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
-                  Row(
+                  /*Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: pokemon.type
                         .map((t) => FilterChip(
@@ -74,7 +74,7 @@ class YearDetail extends StatelessWidget {
                                   onSelected: (b) {},
                                 ))
                             .toList(),
-                  )
+                  )*/
                 ],
               ),
             ),

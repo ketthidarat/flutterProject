@@ -13,7 +13,7 @@ class YearPage extends StatefulWidget {
 
 class YearPageState extends State<YearPage> {
   var url =
-      "https://raw.githubusercontent.com/chadaporn29797/tiktry/master/year.json";
+      "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/item.json";
 
   PokeHub pokeHub;
 
@@ -39,7 +39,7 @@ class YearPageState extends State<YearPage> {
     return Scaffold(
       backgroundColor: Colors.blue[100],
       appBar: AppBar(
-        title: Text("Support"),
+        title: Text("Items"),
         backgroundColor: Colors.purple[100],
       ),
       body: pokeHub == null
