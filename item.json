@@ -1,0 +1,320 @@
+{
+    "pokemon": [{
+      "id": 1,
+      "num": "001",
+      "name": "Liliana",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/liliana.png",
+      "type": [
+        "เมจ/แอสซาซิน"
+      ],
+      "height": "Nine-tailed fox",
+      "weight": "Liliana เป็นเมจที่ค่อนข้างครบเครื่องและมีสกิลให้ใช้งานหลากหลายมาก จุดเด่นของเธอคือสามารถแปลงร่างเป็นจิ้งจอกเก้าหางได้ ซึ่งในระหว่างแปลงร่างสกิลของเธอจะเปลี่ยนไป เรียกได้ว่าตัวเธอนั้นมีสกิลให้ใช้งานกันถึง 6 สกิลเลยทีเดียว ในแต่ละร่างก็จะมีบทบาทแตกต่างกัน สำหรับในร่างของคนจะเป็นเมจที่สามารถโจมตีได้จากระยะที่ค่อนข้างไกล และร่างจิ้งจอกเก้าหางจะมีความสามารถไปในทางสายแอสซาซิน ที่สามารถเข้าหรือถอยได้ไว",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Fox Form",
+        "Shining Light",
+        "Unpredictable"
+      ],
+      "next_evolution": [{
+        "num": "001",
+        "name": "ว่องไว/ฟาร์ม"
+      }]
+    }, {
+      "id": 2,
+      "num": "002",
+      "name": "Diao chan",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/diao.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "The Crystal Lotus",
+        "weight": "Diao chan เป็นฮีโร่เมจตัวใหม่ที่มีความรุนแรงสูง ทั้ง CC และ ดาเมจอยู่ในระดับตัวทอปของตำแหน่งเมจเลยทีเดียว ซึ่งใครได้จับเธอไปเล่นแล้วล่ะก็นอกจากจะถูกใจในรุปร่างและความสวยงามของเธอยังติดใจในการใช้งานในทีมไฟต์อีกด้วย",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Chilling Frost",
+        "Absolute Zero",
+        "Blizzard"
+      ],
+      "next_evolution": [{
+        "num": "002",
+        "name": "ควบคุม"
+      }]
+    },{
+      "id": 3,
+      "num": "003",
+      "name": "Annette",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/annette.png",
+      "type": [
+        "ซัพพอร์ต/เมจ"
+      ],
+      "height": "The Diviner",
+      "weight": "Annette มีสกิล AOE (สกิลวางพื้น) ถึงสองสกิล จึงค่อนข้างเล่นง่าย อีกทั้งยังมีสกิลที่มี CC ถึง 2 สกิลด้วยกัน รวมถึงสกิล Passive ที่สามารถช่วยเพื่อนในยามคับขันได้",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Gust Force",
+        "Wind Cuffs",
+        "Hurricane Wall"
+      ],
+      "next_evolution": [{
+        "num": "003",
+        "name": "สนับสนุนทีม"
+      }]
+    },{
+      "id": 4,
+      "num": "004",
+      "name": "Ilumia",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/illumia.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "The High Goddess",
+      "weight": "Ilumia ผู้มีสกิลทั่วแมพเพียงหนึ่งเดียวในเกม ถือว่าเป็นเมจสาวที่มีสกิล CC ค่อนข้างเยอะ อีกทั้งยังมีสกิลที่ช่วยชีวิต คือสกิล 2 ที่ผลักศัตรูออกจากตัวของเธอ และมี Passive ที่ช่วยส่งเสริมให้สกิล 1 มีประสิทธิภาพมากขึ้น Ilumia จึงเป็นเมจซัพพอร์ทที่มีสกิลช่วยเพื่อนที่ดีตัวหนึ่ง",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Divine Light",
+        "Banish",
+        "Catalysm"
+      ],
+      "next_evolution": [{
+        "num": "004",
+        "name": "ควบคุม/ระยะไกล"
+      }]
+    },{
+      "id": 5,
+      "num": "005",
+      "name": "Krixi",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/krixi.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "The Pixie",
+      "weight": "Krixi เป็นฮีโร่สายเวทย์ ซึ่งแน่นอนว่าตัวของเธอก็จะเปราะบาง ไม่ควรเอาไปยืนบวกกับใคร ควรอยู่แนวหลังคอยตามเพื่อนถึงจะดี ตัวนี้สามารถทำดาเมจได้ดีมากๆ ด้วยสกิลผีเสื้อ Flutter (สกิลแรก) เพราะมีรัศมีที่กว้าง แถมเมื่อปล่อยออกไปแล้ว มันยังบินวนกลับมาทำดาเมจได้อีก เท่ากับสร้างดาเมจได้ 2 เด้งทั้งไปและกลับ เป็นสกิลที่น่ากลัวมากๆ แถมสกิล 2 (Nature's Wrath) ยังยก+สตั๊นได้อีก ถ้าใช้เป็นคอมโบ สตั๊น+ยิงผีเสื้อ ล่ะก็ ศัตรูได้หงายเงิบแน่ๆ นอกจากนี้ด้วยสกิลแรกยังสามารถช่วยเคลียร์ครีปได้เป็นอย่างดี จึงเป็นตัวที่เหมาะกับการลุยเคลียร์เลนดันป้อมด้วยเช่นกัน",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Mischief",
+        "Nature's Wrath",
+        "Moonfall"
+      ],
+      "next_evolution": [{
+        "num": "005",
+        "name": "ระยะไกล"
+      }]
+    },{
+      "id": 6,
+      "num": "006",
+      "name": "Natalya",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/natalya.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "The Nether Queen",
+      "weight": "Natalya เป็นแถวหลังที่ทรงพลังมากๆ ดังนั้นการเดินออกไปบู๊หน้าสุดถือว่าไม่ใช่เรื่องที่ควรทำสักเท่าไหร่ เวลาเล่นให้เน้นความใจเย็นเป็นหลัก และเช็คตำแหน่งยืนของตนเองกับอีกฝ่ายอยู่เรื่อยๆ",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Arcane Spirits",
+        "Arcane Nova",
+        "Lethal Rays"
+      ],
+      "next_evolution": [{
+        "num": "006",
+        "name": "ระยะไกล"
+      }]
+    },{
+      "id": 7,
+      "num": "007",
+      "name": "Sephera",
+  
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/sephera.png",
+      "type": [
+        "เมจ/ซัพพอร์ต"
+      ],
+      "height": "The Water Ascendant",
+      "weight": "Sephera เป็น เมจ/ซัพพอร์ท ผู้มากความสามารถทั้งในด้านการโจมตีที่มีทั้งการสตั้นหรือลดความเร็วเคลื่อนที่ของศัตรู ล้วนแล้วแต่จะเป็นสิ่งที่ใครหลายคนไม่อยากเจอ อีกทั้งแม่นางยังสามารถฟื้นฟูพลังชีวิตให้กับเพื่อนร่วมทีมไปพร้อมกับการโจมตีในเวลาเดียวกันได้อีกด้วย",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Water Spirits",
+        "Wall of Water",
+        "Tide of Life"
+      ],
+      "next_evolution": [{
+        "num": "007",
+        "name": "สนับสนุนทีม"
+      }]
+    },{
+      "id": 8,
+      "num": "008",
+      "name": "D'Arcy",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/D'Arcy.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "The Archmagus",
+      "weight": "D`Arcy ตัวละครเมจสุดโหดจากเกม ROV ที่มีลูกเล่นแพลวพลาว สามารถสร้างดาเมจรุนแรงได้ภายในชุดเดียวจากการคอมโบ มีความสามารถในการหลบหนีจากศัตรูได้ง่าย แต่อาจต้องอาศัยจังหวะในการกะสกิลของผู้เล่นเพื่อให้ทำดาเมจได้อย่างเต็มประสิทธิภาพ",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Dimensional Walk",
+        "Dimensional Cube",
+        "Dimensional Portal"
+      ],
+      "next_evolution": [{
+        "num": "008",
+        "name": "ควบคุม"
+      
+      }]
+    },{
+      "id": 9,
+      "num": "009",
+      "name": "Aleister",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Aleister.png",
+  
+      "type": [
+        "เมจ"
+      ],
+      "height": "Lord of Mischief",
+      "weight": "Aleister เมจที่มีความทรงพลังในด้านของสกิล CC มีทั้งสโลว์ สตั๊น ทำหน้าที่ทั้งหยุดทั้งชะลอการฆ่า ทั้งป่วนทีมไฟต์ได้ดีมากตัวหนึ่งของเกมตัวภูติทราย  แม้ตัว Aleister จะเป็นเมจที่รุนแรง มีสกิลคอมโบชุดเดียวดับก็จริง แต่ความบางของเขาก็มากโขเช่นกัน โดนสะกิดนิดเดียวนี่แทบจะบิน แต่ถ้าเขามีพื้นที่ให้ยืนร่ายเวทเรื่อยๆล่ะก็ทีมไฟต์ของเราจะเป็นต่อกว่าอีกฝ่ายแน่นอน อาจจะเป็นเพราะว่า Aleister นั้นต้องพึ่งพาทีมมากๆ เพราะเขาไม่มีสกิลที่ฟาดทีเดียวเก็บเรียบทั้งทีม แต่เป็นตัวที่มีสกิลที่ช่วยทีมและมีดาเมจที่จัดจ้าน อีกทั้งยังค่อนข้างจะต้องใช้ทักษะในการเล่นค่อนข้างสูง",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Magic Barrier",
+        "Matrix of Woe",
+        "Magic Prison"
+      ],
+      "next_evolution": [{
+        "num": "009",
+        "name": "ควบคุม"
+      }]
+    },{
+      "id": 10,
+      "num": "010",
+      "name": "Marja",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Preyta.png",
+      "type": [
+        "เมจ/แทงค์"
+      ],
+      "height": "The Ashe Weaver",
+      "weight": " Marja ฮีโร่เทพสาวสายแทงค์เมจ ผู้โดนพลังแห่งความมืดกลืนกิน มีจุดเด่นอยู่ที่เธอเป็นเมจที่ไม่ได้ใช้มานา อีกทั้ง Passive Skill ที่เมื่อเลือดเหลือน้อย เธอจะฟื้นฟูพลังชีวิตของจนเองตามจำนวนของดาเมจที่เธอได้รับ พร้อมกับลดความเร็วศัตรู รวมถึงพลัง Ultimate Skill ที่ทำให้เธอไม่ตกเป็นเป้าโจมตีเป็นเวลา 2.5 วิ ทำให้เคลื่อนที่ไวขึ้น รวมถึงยังสามารถโจมตีและใช้สกิลได้อีกด้วย",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Dark Pulse",
+        "Soul Devourer",
+        "Ghostwalk"   
+      ],
+      "next_evolution": [{
+        "num": "010",
+        "name": "ดูดเลือด"
+      }]
+    },{
+      "id": 11,
+      "num": "011",
+      "name": "Preyta",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Preyta.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "The Illest",
+      "weight": "Preyta ฮีโร่ผู้มีสกิลเวฟที่แรงแบบหน้าไหม้ พร้อมทั้งสกิลผลักที่ทำให้อีกฝ่ายหัวร้อน อีกทั้งยังเป็นฮีโร่ที่สปีดเคลื่อนที่ที่ไวเป็นอันดับต้นๆในเกม โดยเฉพาะหลังจากกดใช้สกิล Ultimate จะเพิ่มความเร็วเคลื่อนที่ ได้ทั้งไล่ได้ทั้งหนี และเมื่อใชดสกิล2 เอฟเฟคจากการผลักจะกลายเป็นสตั๊น เป็นตัวที่ป่วนทีมไฟต์สุดๆ",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Lethal Pethogen",
+        "Putrid Virus",
+        "Plague Tentacle"
+      ],
+      "next_evolution": [{
+        "num": "011",
+        "name": "ระยะไกล"
+      }]
+    },{
+      "id": 12,
+      "num": "012",
+      "name": "Tulen",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/tulen.png",
+      "type": [
+        "เมจ"
+      ],
+      "height": "15 ม.ค. - 12 ก.พ.",
+      "weight": "Tulen อยู่ในตำแหน่งเมจ ที่มีพลังทำลายล้าง และ ความรวดเร็วสูง สามารถพุ่งเข้า ออกทีมไฟต์ได้ง่าย เพราะสกิล 2 ของเขา เก็บได้ถึง 3 ชาร์จเพื่อในงานต่อเนื่อง เท่ากับเขาสามารถแว้บไปแว้บมาหนี assassin ฝั่งตรงข้ามได้สบาย ไม่เป็นภาระเพื่อน แถมยังมีดาเมจที่สูง จากสกิล 1 ไม่ว่าจะใช้อัดหน้าหรือยิงสแปม ก็ทำได้ดี สิ่งที่ทำให้เขาโหดมากสุดๆตั้งแต่ช่วงต้นเกมเลยก็คือ พาสซีฟ ซึ่งมีดาเมจสูงและกว้างมากๆ สามารถใช้สายฟ้าฟาดโดนศัตรูอย่างง่ายดาย เพราะสกิลออโต้เล็งฮีโร่ก่อน เขาจึงเป็นเมจที่สามารถยินเลนไหนก็ได้ ไม่ว่าจะออฟเลน หรือเข้าป่า ",
+      "candy": "Bulbasaur Candy",
+      "candy_count": 25,
+      "egg": "2 km",
+      "spawn_chance": 0.69,
+      "avg_spawns": 69,
+      "spawn_time": "20:00",
+      "multipliers": [1.58],
+      "weaknesses": [
+        "Ion Prisms",
+        "Lightning Strike",
+        "Thunderbird"
+      ],
+      "next_evolution": [{
+        "num": "012",
+        "name": "ฟาร์ม ระยะไกล"
+      }]
+    }
+  ]
+  }
+   
