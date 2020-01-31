@@ -34,19 +34,43 @@ flutter:
   uses-material-design: true
   
   assets:
-     - asset/images/Aleister.png
-     - asset/images/annette.png
-     - asset/images/D'Arcy.png
-     - asset/images/diao-.png
-     - asset/images/illumia.png
-     - asset/images/krixi.png
-     - asset/images/liliana.png
-     - asset/images/natalya.png
-     - asset/images/preyta.png
-     - asset/images/sephera.png
-     - asset/images/tulen.png
-     
-
+    #   - asset/images/tik1.png
+ #  - asset/images/tik2.png
+# - asset/images/tik3.png
+  #   - asset/images/tik4.png
+   #  - asset/images/tik5.png
+   #  - asset/images/tik6.png
+    # - asset/images/tik7.png
+  #   - asset/images/tik8.png
+   #  - asset/images/tik9.png
+   #  - asset/images/tik10.png
+  #   - asset/images/tik11.png
+   #  - asset/images/tik12.png
+  #   - asset/images/tik13.png
+  #   - asset/images/tik14.png
+  #   - asset/images/tik15.png
+  #   - asset/images/tik16.png
+  #   - asset/images/tik17.png
+  #   - asset/images/tik18.png
+  #   - asset/images/photo_museum.png
+  #   - asset/images/photo_school.png
+  #   - asset/images/photo_coffee_shop.png
+  #   - asset/images/blood-type (1).png
+  #   - asset/images/blood-type (2).png
+  #   - asset/images/blood-type (3).png
+  #   - asset/images/blood-type.png
+  #   - asset/images/blood-donation.png
+    - asset/images/Aleister.png
+    - asset/images/annette.png
+    - asset/images/D'Arcy.png
+    - asset/images/diao.png
+    - asset/images/illumia.png
+    - asset/images/krixi.png
+    - asset/images/liliana.png
+    - asset/images/natalya.png
+    - asset/images/preyta.png
+    - asset/images/sephera.png
+    - asset/images/tulen.png
 
 cupertino_icons: ^0.1.2  
 splashscreen: any
