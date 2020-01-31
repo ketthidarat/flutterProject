@@ -29,7 +29,7 @@ class PokeDetail extends StatelessWidget {
                         TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
                   ),
                   Text("${pokemon.height}"),
-                  Text("${pokemon.weight}"),
+                 // Text("${pokemon.weight}"),
                   Text(
                     "ตำแหน่ง",
                     style: TextStyle(fontWeight: FontWeight.bold),
