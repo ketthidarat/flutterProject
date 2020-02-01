@@ -37,10 +37,10 @@ class YearPageState extends State<YearPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue[100],
+      backgroundColor: Colors.blue[50],
       appBar: AppBar(
         title: Text("Items"),
-        backgroundColor: Colors.purple[100],
+        backgroundColor: Colors.pink[100],
       ),
       body: pokeHub == null
           ? Center(
@@ -87,7 +87,7 @@ class YearPageState extends State<YearPage> {
                                   )
                                 ],
                               ),
-                              color: Colors.redAccent[100],
+                              color: Colors.green[200],
                             ),
                           ),
                         ),

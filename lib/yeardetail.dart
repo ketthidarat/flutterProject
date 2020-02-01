@@ -29,12 +29,12 @@ class YearDetail extends StatelessWidget {
                         TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
                   ),
                 //  Text("👉 ${pokemon.height}"),
-                  Text("....${pokemon.weight}...."),
-                  Text(
+                  Text("${pokemon.weight}"),
+                 /* Text(
                     "ปีสมพงศ์",
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
-                  /*Row(
+                  Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: pokemon.type
                         .map((t) => FilterChip(
@@ -97,10 +97,10 @@ class YearDetail extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red[300],
+      backgroundColor: Colors.blue[50],
       appBar: AppBar(
         elevation: 0.0,
-        backgroundColor: Colors.red[300],
+        backgroundColor: Colors.pink[100],
         title: Text(pokemon.name),
       ),
       body: bodyWidget(context),
