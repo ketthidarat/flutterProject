@@ -1,4 +1,4 @@
-#Sat Feb 01 07:27:48 ICT 2020
+#Sat Feb 01 08:04:02 ICT 2020
 base.0=/home/lenovo/flutterProject/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

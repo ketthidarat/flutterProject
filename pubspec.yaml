@@ -67,10 +67,23 @@ flutter:
     - asset/images/illumia.png
     - asset/images/krixi.png
     - asset/images/liliana.png
+    - asset/images/marja.png
     - asset/images/natalya.png
     - asset/images/preyta.png
     - asset/images/sephera.png
     - asset/images/tulen.png
+    - asset/images/it1.jpeg
+    - asset/images/it2.jpeg
+    - asset/images/it3.jpeg
+    - asset/images/it4.jpeg
+    - asset/images/it5.jpg
+    - asset/images/it6.jpeg
+    - asset/images/it7.jpeg
+    - asset/images/it8.jpeg
+    - asset/images/it9.jpeg
+    - asset/images/it10.jpg
+    - asset/images/it11.jpeg
+    - asset/images/it12.jpg
 
 cupertino_icons: ^0.1.2  
 splashscreen: any
