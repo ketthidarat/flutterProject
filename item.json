@@ -3,7 +3,7 @@
       "id": 1,
       "num": "001",
       "name": "Orb of the Magi",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/liliana.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it1.jpeg",
       "type": [
         "เมจ/แอสซาซิน"
       ],
@@ -29,7 +29,7 @@
       "id": 2,
       "num": "002",
       "name": "Virtue’s Necklace",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/diao.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it2.jpeg",
       "type": [
         "เมจ"
       ],
@@ -55,7 +55,7 @@
       "id": 3,
       "num": "003",
       "name": "Boomstick",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/annette.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it3.jpeg",
       "type": [
         "ซัพพอร์ต/เมจ"
       ],
@@ -81,7 +81,7 @@
       "id": 4,
       "num": "004",
       "name": "Hecate’s Diadem",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/illumia.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it4.jpeg",
       "type": [
         "เมจ"
       ],
@@ -107,7 +107,7 @@
       "id": 5,
       "num": "005",
       "name": "Frosty’s Revenge",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/krixi.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it5.jpg",
       "type": [
         "เมจ"
       ],
@@ -133,7 +133,7 @@
       "id": 6,
       "num": "006",
       "name": "Holy of Holies",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/natalya.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it6.jpeg",
       "type": [
         "เมจ"
       ],
@@ -160,7 +160,7 @@
       "num": "007",
       "name": "Staff of Nuul",
   
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/sephera.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it7.jpeg",
       "type": [
         "เมจ/ซัพพอร์ต"
       ],
@@ -186,7 +186,7 @@
       "id": 8,
       "num": "008",
       "name": "Soaring Aura",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/D'Arcy.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it8.jpeg",
       "type": [
         "เมจ"
       ],
@@ -213,7 +213,7 @@
       "id": 9,
       "num": "009",
       "name": "Rhea’s Blessing",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Aleister.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it9.jpeg",
   
       "type": [
         "เมจ"
@@ -240,7 +240,7 @@
       "id": 10,
       "num": "010",
       "name": "Zweihander",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Preyta.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it10.jpeg",
       "type": [
         "เมจ/แทงค์"
       ],
@@ -266,7 +266,7 @@
       "id": 11,
       "num": "011",
       "name": "Berith’s Agony",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Preyta.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it11.jpeg",
       "type": [
         "เมจ"
       ],
@@ -292,7 +292,7 @@
       "id": 12,
       "num": "012",
       "name": "Apocalype",
-      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/tulen.png",
+      "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/asset/images/it12.jpg",
       "type": [
         "เมจ"
       ],
