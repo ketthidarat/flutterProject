@@ -16,10 +16,11 @@ class _BarNavyState extends State<BarNavy> {
   int _selectedIndex = 0;
   final List<Widget> _children = 
   [
+    AboutMePage(),
     HomePage(),
+    
     ZodiacPage(),
-    YearPage(),
-    AboutMePage()
+    YearPage()
   ];
   PageController _pageController;
   void onTappedBar(int index){
@@ -49,7 +50,7 @@ class _BarNavyState extends State<BarNavy> {
       bottomNavigationBar: BottomNavigationBar(
         backgroundColor: Color(0xffffcc5c) ,
         currentIndex: _selectedIndex,
-        selectedItemColor: Colors.amber[800],
+        selectedItemColor: Colors.purple[800],
         unselectedItemColor: Colors.blueGrey,
         onTap: onTappedBar,
         items: const <BottomNavigationBarItem>[
@@ -58,17 +59,18 @@ class _BarNavyState extends State<BarNavy> {
             icon: Icon(Icons.home)
           ),
           BottomNavigationBarItem(
-            title: Text('Zodiac'),
+            title: Text('Items'),
+            icon: Icon(Icons.face),
+          ),
+          BottomNavigationBarItem(
+            title: Text('Mage'),
             icon: Icon(Icons.star)
           ),
           BottomNavigationBarItem(
-            title: Text('Year'),
+            title: Text('Items'),
             icon: Icon(Icons.pets),
           ),
-          BottomNavigationBarItem(
-            title: Text('Me'),
-            icon: Icon(Icons.face),
-          ),
+          
         ],
       ),
     );

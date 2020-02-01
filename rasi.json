@@ -240,7 +240,7 @@
     "id": 10,
     "num": "010",
     "name": "Marja",
-    "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Preyta.png",
+    "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/marja.png",
     "type": [
       "เมจ/แทงค์"
     ],
@@ -266,7 +266,7 @@
     "id": 11,
     "num": "011",
     "name": "Preyta",
-    "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/Preyta.png",
+    "img": "https://raw.githubusercontent.com/ketthidarat/flutterProject/master/preyta.png",
     "type": [
       "เมจ"
     ],

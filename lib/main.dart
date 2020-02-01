@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'home.dart';
 import 'splash_page.dart';
+import 'package:intro_slider/slide_object.dart';
 
 void main() => runApp(MyApp());
 
