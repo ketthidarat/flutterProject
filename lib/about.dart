@@ -24,57 +24,57 @@ class AboutMePageState extends State<AboutMePage> {
 
     slides.add(
       new Slide(
-        title: "SCHOOL",
+        title: "ROV",
         styleTitle: TextStyle(
             color: Color(0xff3da4ab),
             fontSize: 30.0,
             fontWeight: FontWeight.bold,
             fontFamily: 'RobotoMono'),
         description:
-            "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+            "RoV (อ่านว่า อาร์-โอ-วี) คือเกมส์มือถือสไตล์ MOBA จากค่าย Tencent ที่เปิดตัวในไทยเมื่อปลายปี 2016 สไตล์การเล่นของเกมมีความคล้ายกับ Dota ที่เล่นในคอมพิวเตอร์ แต่ RoV จะเล่นในมือถือแทน",
         styleDescription: TextStyle(
             color: Color(0xfffe9c8f),
             fontSize: 20.0,
             fontStyle: FontStyle.italic,
             fontFamily: 'Raleway'),
-        pathImage: "asset/images/photo_school.png",
+        pathImage: "asset/images/rov.jpg",
       ),
     );
     slides.add(
       new Slide(
-        title: "MUSEUM",
+        title: "Hero",
         styleTitle: TextStyle(
             color: Color(0xff3da4ab),
             fontSize: 30.0,
             fontWeight: FontWeight.bold,
             fontFamily: 'RobotoMono'),
         description:
-            "Ye indulgence unreserved connection alteration appearance",
+            "ตัวละครที่ควบคุมได้ในเกม ROV แต่ละฮีโร่มีจุดเด่นและความสามารถเป็นเอกลักษณ์เฉพาะตัวแตกต่างกันไป",
         styleDescription: TextStyle(
             color: Color(0xfffe9c8f),
             fontSize: 20.0,
             fontStyle: FontStyle.italic,
             fontFamily: 'Raleway'),
             backgroundColor: Color(0xff9932CC),
-        pathImage: "asset/images/photo_museum.png",
+        pathImage: "asset/images/airi.jpg",
       ),
     );
     slides.add(
       new Slide(
-        title: "COFFEE SHOP",
+        title: "Items",
         styleTitle: TextStyle(
             color: Color(0xff3da4ab),
             fontSize: 30.0,
             fontWeight: FontWeight.bold,
             fontFamily: 'RobotoMono'),
         description:
-            "Much evil soon high in hope do view. Out may few northward believing attempted. Yet timed being songs marry one defer men our. Although finished blessing do of",
+            "ไอเทม ทั้งหมดในเกม Arena of Valor (RoV) แบ่งออกเป็นหมวดหมู่ต่างๆ ตั้งแต่ โจมตี เวท ป้องกัน เคลื่อนที่ ป่า และสนับสนุน",
         styleDescription: TextStyle(
             color: Color(0xfffe9c8f),
             fontSize: 20.0,
             fontStyle: FontStyle.italic,
             fontFamily: 'Raleway'),
-        pathImage: "asset/images/photo_coffee_shop.png",
+        pathImage: "asset/images/kahli.jpg",
       ),
     );
   }

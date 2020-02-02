@@ -84,6 +84,9 @@ flutter:
     - asset/images/it10.jpg
     - asset/images/it11.jpeg
     - asset/images/it12.jpg
+    - asset/images/rov.jpg
+    - asset/images/airi.jpg
+    - asset/images/kahli.jpg
 
 cupertino_icons: ^0.1.2  
 splashscreen: any
